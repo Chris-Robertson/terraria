@@ -3,6 +3,11 @@
 
 This project is a Dockerfile to containerize [TShock](https://tshock.co/xf/index.php) and [Terraria](https://terraria.org/) TerrariaServer.exe to run on linux.  [Docker](https://www.docker.com/) will remove the need for someone to worry about how to setup a server in linux with all the right dependencies to run.  The installation and usage instructions are written with complete beginners in mind.
 
+Forked from https://github.com/ryansheehan/terraria
+#### Fork Updates
+- Updated TShock version
+- Use latest Ubuntu LTS
+
 ## *Quickstart Guide (no need to pull this repository from git!)*
 
 Get a debian/ubuntu based machine.  From the command line:
